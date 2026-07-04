@@ -1,7 +1,9 @@
 
 [//]: # ([![My GitHub Stats]&#40;https://github-readme-stats.vercel.app/api/?username=bizhan-laripour&count_private=true&theme=tokyonight&showicons=true&#41;]&#40;&#41;)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamidKhanmohammadi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidKhanmohammadi&langs_count=5&theme=tokyonight)]()
+[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidKhanmohammadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/HamidKhanmohammadi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidKhanmohammadi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/HamidKhanmohammadi)
+
 <!--
 **HamidKhanmohammadi/HamidKhanmohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
